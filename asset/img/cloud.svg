@@ -1,0 +1,19 @@
+<svg width="881" height="722.6285" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" data-name="Layer 1">
+ <title>weather app</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m929.0078,664.12182a147.00755,147.00755 0 0 0 -237.28811,-116.01913a159.07307,159.07307 0 0 0 -271.92184,55.72683a118.634,118.634 0 1 0 -78.81678,207.299c1.84378,0 3.67613,-0.04812 5.49935,-0.13134c1.88272,0.0816 3.77367,0.13134 5.67649,0.13134l445.3187,0a128.96348,128.96348 0 0 0 128.35117,-116.48693a147.58681,147.58681 0 0 0 3.18102,-30.51977z" fill="#d81b60" id="svg_1" transform="translate(-159.5 -88.8715)"/>
+  <path d="m934.0078,646.12182a147.00755,147.00755 0 0 0 -237.28811,-116.01913a159.07307,159.07307 0 0 0 -271.92184,55.72683a118.634,118.634 0 1 0 -78.81678,207.299c1.84378,0 3.67613,-0.04812 5.49935,-0.13134c1.88272,0.0816 3.77367,0.13134 5.67649,0.13134l445.3187,0a128.96348,128.96348 0 0 0 128.35117,-116.48693a147.58681,147.58681 0 0 0 3.18102,-30.51977z" fill="none" id="svg_2" stroke="#3f3d56" stroke-miterlimit="10" transform="translate(-159.5 -88.8715)"/>
+  <circle cx="192.67483" cy="368.80265" fill="#d81b60" id="svg_3" r="93.44501"/>
+  <rect fill="#d81b60" height="92.34565" id="svg_4" rx="22.90316" width="45.80638" x="170.07702" y="165.0559"/>
+  <rect fill="#d81b60" height="92.34565" id="svg_5" rx="22.90316" transform="translate(413.25024 -322.60071) rotate(60)" width="45.80638" x="465.88736" y="332.97883"/>
+  <rect fill="#d81b60" height="92.34565" id="svg_6" rx="22.90316" transform="translate(-300.52123 902.10317) rotate(-120)" width="45.80638" x="192.65593" y="490.02383"/>
+  <rect fill="#d81b60" height="92.34565" id="svg_7" rx="22.90316" transform="translate(-379.46465 287.38402) rotate(-60)" width="45.80638" x="192.96131" y="332.4499"/>
+  <circle cx="203.67483" cy="357.80265" fill="none" id="svg_8" r="93.44501" stroke="#3f3d56" stroke-miterlimit="10"/>
+  <rect fill="none" height="92.34565" id="svg_9" rx="22.90316" stroke="#3f3d56" stroke-miterlimit="10" width="45.80638" x="181.07702" y="154.0559"/>
+  <rect fill="none" height="92.34565" id="svg_10" rx="22.90316" stroke="#3f3d56" stroke-miterlimit="10" transform="translate(409.22396 -337.62699) rotate(60)" width="45.80638" x="476.88736" y="321.97883"/>
+  <rect fill="none" height="92.34565" id="svg_11" rx="22.90316" stroke="#3f3d56" stroke-miterlimit="10" transform="translate(-274.49495 895.12945) rotate(-120)" width="45.80638" x="203.65593" y="479.02383"/>
+  <rect fill="none" height="92.34565" id="svg_12" rx="22.90316" stroke="#3f3d56" stroke-miterlimit="10" transform="translate(-364.43837 291.4103) rotate(-60)" width="45.80638" x="203.96131" y="321.4499"/>
+  <line fill="none" id="svg_32" stroke="#3f3d56" stroke-miterlimit="10" x2="881" y1="722.1285" y2="722.1285"/>
+ </g>
+</svg>
